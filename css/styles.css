@@ -1,0 +1,53 @@
+/*Author:-Anju. j.m 
+Date:-09/01/22 */
+/**\{
+	margin:0;
+	padding:0;
+}*/
+
+/*.vh-50{
+	height: 50vh;
+
+}*/
+.font-para{
+	font-size: 22px;
+}
+.set3{
+	height: 50vh;
+}
+.set4{
+	height: 50vh;
+}
+@media only screen and (max-width: 600px) {
+
+.set1{
+	height:100vh;
+	padding-top: 20px;
+	text-align: justify;
+
+}
+.set{
+	padding-top: 30px;
+}
+.set2{
+	padding-top: 30px;
+}
+.set3{
+	height: 50vh;
+}
+.set4{
+	height: 50vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
